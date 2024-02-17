@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.plain {
+    rotate: 90deg;
+}
+
+.plain-icon, .map-icon, .personCard-icon, .alarm-icon, .personBox-icon, .emoji-icon {
+    font-size: 32px;
+}
